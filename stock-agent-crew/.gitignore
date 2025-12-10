@@ -1,0 +1,40 @@
+# --- OS Junk Files ---
+.DS_Store
+Thumbs.db
+*.log
+
+# --- IDE Settings (Personal preferences, don't upload) ---
+.vscode/
+.idea/
+*.swp
+
+# --- Python ---
+__pycache__/
+*.pyc
+venv/
+env/
+.env
+
+# --- Node.js / Javascript ---
+node_modules/
+dist/
+npm-debug.log*
+yarn-debug.log*
+
+# --- Java ---
+*.class
+*.jar
+*.war
+target/
+
+# --- C/C++ ---
+*.exe
+*.out
+*.o
+*.obj
+
+# --- Miscellaneous ---
+# Block large zip/video files (optional, remove if you need them)
+*.zip
+*.tar.gz
+*.mp4
