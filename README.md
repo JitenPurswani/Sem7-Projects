@@ -25,9 +25,9 @@ Welcome to my project portfolio for Semester 7. This repository serves as a cent
 ## 🛠️ Technologies & Domains
 This semester focused on advanced engineering topics. The projects in this repository cover various domains including:
 
-* **Languages:** (To be updated based on your uploads)
-* **Tools:** VS Code, Git
-* **Focus Areas:** (e.g., AI/ML, Distributed Systems, Cryptography - *we will update this later*)
+* **Languages:** Python
+* **Tools:** VS Code, Git, Docker, Apache Kafka
+* **Frameworks & Libs:** CrewAI, QuixStreams, Streamlit
 
 ---
 
@@ -37,10 +37,12 @@ To explore any project locally:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/JitenPurswani/sem7-projects.git
+    git clone [https://github.com/your-username/sem7-projects.git](https://github.com/your-username/sem7-projects.git)
     ```
 2.  **Navigate to the project folder:**
     Browse the folders above to find the specific assignment or project you are looking for.
+3.  **Check individual READMEs:**
+    Each project folder contains its own `README.md` with specific installation and run instructions.
 
 ---
 
