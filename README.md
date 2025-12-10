@@ -17,6 +17,7 @@ Welcome to my project portfolio for Semester 7. This repository serves as a cent
 | Project Name | Folder Name | Tech Stack | Description |
 | :--- | :--- | :--- | :--- |
 | **Stock Agent Crew** | `/stock-agent-crew` | Python, CrewAI | An Agentic AI system that analyzes past stock market patterns to generate "Buy" or "Hold" recommendations. |
+| **Cart Abandonment System** | `/cart-abandonment` | Python, Kafka, QuixStreams | A real-time streaming pipeline that processes user clickstreams to detect and predict shopping cart abandonment. |
 | *Loading...* | *...* | *...* | *Uploading next project...* |
 
 ---
