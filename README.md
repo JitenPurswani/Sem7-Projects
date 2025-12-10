@@ -12,9 +12,12 @@ Welcome to my project portfolio for Semester 7. This repository serves as a cent
 
 *This section is currently being updated as projects are migrated to this repository.*
 
-| Project Name | Stack/Language | Description |
-| :--- | :--- | :--- |
-| *Loading...* | *...* | *Uploading projects individually* |
+|## 🚀 Projects Overview
+
+| Project Name | Folder Name | Tech Stack | Description |
+| :--- | :--- | :--- | :--- |
+| **Stock Agent Crew** | `/stock-agent-crew` | Python, CrewAI | An Agentic AI system that analyzes past stock market patterns to generate "Buy" or "Hold" recommendations. |
+| *Loading...* | *...* | *...* | *Uploading next project...* |
 
 ---
 
